@@ -4,8 +4,15 @@ body {
 
 .nav-wrapper {
   background-color: white;  
+  
 
 }
+
+nav {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}​
 
 .circle {
   height:300px;
