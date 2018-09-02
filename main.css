@@ -7,13 +7,10 @@ body {
 
 }
 
-
 .circle {
   height:300px;
   width: auto;
 }
-
-
 
 div.col s6 {
   font-family: 'Times New Roman', Times, serif;
@@ -38,13 +35,10 @@ img {
   background-attachment: fixed;
 }
 
-
-
 .intro-overlay {
   margin-top: 100px;
 
 }
-
 
 .about {
   margin-top: 100px;
@@ -57,9 +51,7 @@ img {
   max-width: 400px;
   max-height: 400px;
   margin: auto;
-  width: 80%;
-
-  
+  width: 80%; 
 }
 
 .icons {
@@ -71,6 +63,10 @@ img {
 .fab {
    color: lime;
 
+}
+
+.fas {
+  color: lime;
 }
 
 
