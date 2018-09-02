@@ -4,8 +4,7 @@ body {
 
 .nav-wrapper {
   background-color: white;  
-  
-
+  font-size: 24px;
 }
 
 nav {
@@ -76,4 +75,6 @@ img {
   color: lime;
 }
 
-
+.black-text {
+  font-size: 26px;
+}
