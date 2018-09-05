@@ -2,7 +2,8 @@ This is my first portfolio website. It contains a little bit about me, has place
 
  
 Here is the deployed link on surge:
-dear-plantation.surge.sh
+obese-start.surge.sh
+
 
 Here is the repo on github:
 https://github.com/mafontana/g102-portfolio
