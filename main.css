@@ -78,3 +78,15 @@ img {
 .black-text {
   font-size: 26px;
 }
+
+p {
+  font-size: 26px;
+}
+
+.summary {
+  margin: 100px;
+}
+
+.education {
+  margin: 100px;
+}
